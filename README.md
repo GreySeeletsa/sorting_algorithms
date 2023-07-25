@@ -1,6 +1,6 @@
 0x1B. C - Sorting algorithms & Big O
 
-This project aims to archieve the following learning objectives:
+This project aims to achieve the following learning objectives:
 
 	-Knowing at least four different sorting algorithms
 	-Understanding the Big O notation, and how to evaluate the time complexity of an algorithm
